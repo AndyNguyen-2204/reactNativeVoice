@@ -11,9 +11,11 @@
   },
   "dependencies": {
     "@react-native-community/voice": "^1.1.9",
-    "@react-native-voice/voice": "^3.2.4",
+    "link": "^1.5.1",
     "react": "18.2.0",
-    "react-native": "0.71.2"
+    "react-native": "^0.71.2",
+    "react-native-ble-plx": "^2.0.3",
+    "react-native-vector-icons": "^9.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
